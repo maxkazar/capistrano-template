@@ -1,3 +1,5 @@
+require 'erb'
+
 module Capistrano
   module Template
     module Helpers
